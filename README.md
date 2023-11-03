@@ -3,4 +3,4 @@ Este projeto tem o intuito de fazer uma automação utilizando um sensor de humi
 
 Tecnologias utilizadas:
 
--C++
+- C++
